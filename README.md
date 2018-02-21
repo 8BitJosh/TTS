@@ -1,6 +1,6 @@
 ## TextToSpeech player
 
-A program the reads user text input and plays the audio
+A program the reads user text input and plays the audio  
 Requires an internet connection
 
 ### Requirements
@@ -28,5 +28,5 @@ Running
 ```bash
 python3 ./tts.py
 ```
-Then just type in some text and it will say it out loud
+Then just type in some text and it will say it out loud  
 Just ```Ctr+c``` to exit
